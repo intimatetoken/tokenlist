@@ -1,6 +1,6 @@
 {
   "name": "intimate token list",
-  "logoURI": "https://tokens.1inch.exchange/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png",
+  "logoURI": "https://raw.githubusercontent.com/intimatetoken/tokenlist/main/favicon.png",
   "keywords": [
     "data",
     "data economy",
@@ -16,12 +16,12 @@
       "symbol": "ITM",
       "name": " intimate",
       "decimals": 18,
-      "logoURI": "https://tokens.1inch.exchange/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png"
+      "logoURI": "https://raw.githubusercontent.com/intimatetoken/tokenlist/main/favicon.png"
     }
   ],
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 1
+    "patch": 2
   }
 }
