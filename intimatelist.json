@@ -1,0 +1,27 @@
+{
+  "name": "intimate token list",
+  "logoURI": "https://tokens.1inch.exchange/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png",
+  "keywords": [
+    "data",
+    "data economy",
+    "dataFi",
+    "data lego",
+    "open data"
+  ],
+  "timestamp": "2020-11-24T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x7e9Bf742ACd4Af1f419104CF6d22A36315142b87",
+      "symbol": "ITM",
+      "name": " intimate",
+      "decimals": 18,
+      "logoURI": "https://tokens.1inch.exchange/0x006bea43baa3f7a6f765f14f10a1a1b08334ef45.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  }
+}
